@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/kWCgvivvElv29M0TBaEJXf4fhQw7e9nCjB51ErnQqyQhdnJJ/5d0CuoCfG9yopZMmfYHoffunJOxK4E2xG8Q==",
+  "dgSpecHash": "kuy0r8K2nz3KcGsMtMdwR7ZIT/HA0XBofzIgouDBH5Omz0oIGapsT13H3uZ/Yztddps6AEor8UNgVbCEO+CW0g==",
   "success": true,
-  "projectFilePath": "D:\\Share\\EnventJustin\\Defence\\TcpIpRfid\\TcpIpRfid\\TcpIpRfid.csproj",
+  "projectFilePath": "D:\\Share\\EnventJustin\\Defence\\TcpIP-Socket-CSharp\\TcpIpRfid\\TcpIpRfid.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
