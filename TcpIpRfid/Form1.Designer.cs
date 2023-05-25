@@ -104,7 +104,7 @@ namespace TcpIpRfid
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label3.Location = new System.Drawing.Point(600, 190);
+            this.label3.Location = new System.Drawing.Point(619, 190);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(56, 23);
             this.label3.TabIndex = 12;
@@ -114,7 +114,7 @@ namespace TcpIpRfid
             // 
             this.lblRegResult.AutoSize = true;
             this.lblRegResult.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblRegResult.Location = new System.Drawing.Point(350, 190);
+            this.lblRegResult.Location = new System.Drawing.Point(369, 190);
             this.lblRegResult.Name = "lblRegResult";
             this.lblRegResult.Size = new System.Drawing.Size(56, 23);
             this.lblRegResult.TabIndex = 11;
@@ -123,7 +123,7 @@ namespace TcpIpRfid
             // txtUnRegResult
             // 
             this.txtUnRegResult.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtUnRegResult.Location = new System.Drawing.Point(666, 186);
+            this.txtUnRegResult.Location = new System.Drawing.Point(685, 186);
             this.txtUnRegResult.Name = "txtUnRegResult";
             this.txtUnRegResult.Size = new System.Drawing.Size(88, 30);
             this.txtUnRegResult.TabIndex = 10;
@@ -131,7 +131,7 @@ namespace TcpIpRfid
             // txtRegResult
             // 
             this.txtRegResult.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtRegResult.Location = new System.Drawing.Point(412, 186);
+            this.txtRegResult.Location = new System.Drawing.Point(431, 186);
             this.txtRegResult.Name = "txtRegResult";
             this.txtRegResult.Size = new System.Drawing.Size(87, 30);
             this.txtRegResult.TabIndex = 9;
@@ -139,7 +139,7 @@ namespace TcpIpRfid
             // btnUnregister
             // 
             this.btnUnregister.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnUnregister.Location = new System.Drawing.Point(604, 117);
+            this.btnUnregister.Location = new System.Drawing.Point(623, 117);
             this.btnUnregister.Name = "btnUnregister";
             this.btnUnregister.Size = new System.Drawing.Size(150, 32);
             this.btnUnregister.TabIndex = 8;
@@ -149,7 +149,7 @@ namespace TcpIpRfid
             // btnRegister
             // 
             this.btnRegister.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnRegister.Location = new System.Drawing.Point(350, 119);
+            this.btnRegister.Location = new System.Drawing.Point(369, 119);
             this.btnRegister.Name = "btnRegister";
             this.btnRegister.Size = new System.Drawing.Size(149, 32);
             this.btnRegister.TabIndex = 1;
@@ -160,7 +160,7 @@ namespace TcpIpRfid
             // txtAppName
             // 
             this.txtAppName.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtAppName.Location = new System.Drawing.Point(31, 192);
+            this.txtAppName.Location = new System.Drawing.Point(50, 192);
             this.txtAppName.Name = "txtAppName";
             this.txtAppName.Size = new System.Drawing.Size(157, 30);
             this.txtAppName.TabIndex = 7;
@@ -169,7 +169,7 @@ namespace TcpIpRfid
             // txtLicenseCode
             // 
             this.txtLicenseCode.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtLicenseCode.Location = new System.Drawing.Point(31, 121);
+            this.txtLicenseCode.Location = new System.Drawing.Point(50, 121);
             this.txtLicenseCode.Name = "txtLicenseCode";
             this.txtLicenseCode.Size = new System.Drawing.Size(157, 30);
             this.txtLicenseCode.TabIndex = 6;
@@ -179,7 +179,7 @@ namespace TcpIpRfid
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label2.Location = new System.Drawing.Point(28, 164);
+            this.label2.Location = new System.Drawing.Point(47, 164);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(148, 23);
             this.label2.TabIndex = 5;
@@ -189,7 +189,7 @@ namespace TcpIpRfid
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(28, 95);
+            this.label1.Location = new System.Drawing.Point(47, 95);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(111, 23);
             this.label1.TabIndex = 4;
@@ -199,7 +199,7 @@ namespace TcpIpRfid
             // 
             this.lblConnectStatus.AutoSize = true;
             this.lblConnectStatus.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblConnectStatus.Location = new System.Drawing.Point(604, 49);
+            this.lblConnectStatus.Location = new System.Drawing.Point(623, 49);
             this.lblConnectStatus.Name = "lblConnectStatus";
             this.lblConnectStatus.Size = new System.Drawing.Size(124, 23);
             this.lblConnectStatus.TabIndex = 3;
@@ -209,7 +209,7 @@ namespace TcpIpRfid
             // 
             this.lblIpAddress.AutoSize = true;
             this.lblIpAddress.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.lblIpAddress.Location = new System.Drawing.Point(350, 49);
+            this.lblIpAddress.Location = new System.Drawing.Point(369, 49);
             this.lblIpAddress.Name = "lblIpAddress";
             this.lblIpAddress.Size = new System.Drawing.Size(90, 23);
             this.lblIpAddress.TabIndex = 2;
@@ -218,7 +218,7 @@ namespace TcpIpRfid
             // txtIpAddress
             // 
             this.txtIpAddress.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.txtIpAddress.Location = new System.Drawing.Point(454, 45);
+            this.txtIpAddress.Location = new System.Drawing.Point(473, 45);
             this.txtIpAddress.Name = "txtIpAddress";
             this.txtIpAddress.Size = new System.Drawing.Size(136, 30);
             this.txtIpAddress.TabIndex = 1;
@@ -227,7 +227,7 @@ namespace TcpIpRfid
             // btnConnect
             // 
             this.btnConnect.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnConnect.Location = new System.Drawing.Point(28, 44);
+            this.btnConnect.Location = new System.Drawing.Point(47, 44);
             this.btnConnect.Name = "btnConnect";
             this.btnConnect.Size = new System.Drawing.Size(140, 32);
             this.btnConnect.TabIndex = 0;
@@ -451,7 +451,7 @@ namespace TcpIpRfid
             this.groupBox2.Controls.Add(this.txtSysId);
             this.groupBox2.Location = new System.Drawing.Point(55, 649);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(624, 86);
+            this.groupBox2.Size = new System.Drawing.Size(594, 86);
             this.groupBox2.TabIndex = 22;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "System user";
@@ -486,7 +486,7 @@ namespace TcpIpRfid
             // btnExit
             // 
             this.btnExit.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnExit.Location = new System.Drawing.Point(724, 674);
+            this.btnExit.Location = new System.Drawing.Point(723, 682);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(149, 45);
             this.btnExit.TabIndex = 13;
